@@ -1,0 +1,11 @@
+﻿shape_type,pos_x,side,compatibility,corr_ans,arousal_level,cue_img,stim_shape
+64,-0.4,left,compatible,f,high,cue images/high1.jpg,circle
+64,0.4,right,incompatible,f,high,cue images/high2.jpg,circle
+4,0.4,right,compatible,j,high,cue images/high3.jpg,square
+4,-0.4,left,incompatible,j,high,cue images/high4.jpg,square
+64,-0.4,left ,compatible,f,high,cue images/high5.jpg,circle
+64,0.4,right,incompatible,f,low,cue images/low1.jpg,circle
+4,0.4,right,compatible,j,low,cue images/low2.jpg,square
+4,-0.4,left,incompatible,j,low,cue images/low3.jpg,square
+64,0.4,left,compatible,f,low,cue images/low4.jpg,circle
+4,0.4,right,compatible,j,low,cue images/low5.jpg,square
